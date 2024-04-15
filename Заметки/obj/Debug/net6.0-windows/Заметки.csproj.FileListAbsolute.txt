@@ -1,0 +1,46 @@
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\bin\Debug\net6.0-windows\Заметки.exe
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\bin\Debug\net6.0-windows\Заметки.deps.json
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\bin\Debug\net6.0-windows\Заметки.runtimeconfig.json
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\bin\Debug\net6.0-windows\Заметки.dll
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\bin\Debug\net6.0-windows\Заметки.pdb
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки_MarkupCompile.cache
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки_MarkupCompile.lref
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.g.resources
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.dll
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\refint\Заметки.dll
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.pdb
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\ref\Заметки.dll
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.csproj.CopyComplete
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\bin\Debug\net6.0-windows\Заметки.exe
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\bin\Debug\net6.0-windows\Заметки.deps.json
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\bin\Debug\net6.0-windows\Заметки.runtimeconfig.json
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\bin\Debug\net6.0-windows\Заметки.dll
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\bin\Debug\net6.0-windows\Заметки.pdb
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.csproj.AssemblyReference.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки_MarkupCompile.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки_MarkupCompile.lref
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.g.resources
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.AssemblyInfoInputs.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.AssemblyInfo.cs
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.csproj.CopyComplete
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.dll
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\refint\Заметки.dll
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.pdb
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\Заметки.genruntimeconfig.cache
+C:\Users\xiaomi\Desktop\my_files\2 семестр\WPF\Заметки\Заметки\obj\Debug\net6.0-windows\ref\Заметки.dll

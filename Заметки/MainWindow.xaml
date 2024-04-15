@@ -1,0 +1,18 @@
+﻿<Window x:Class="Заметки.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Заметки"
+        mc:Ignorable="d"
+        Title="Заметки" Height="450" Width="800" Background="#ffdbde" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid x:Name="notes" FontSize="16" Margin="10" BorderBrush="#fa8f89" Background="White" AutoGenerateColumns="False">
+            <DataGrid.Columns >
+                <DataGridTextColumn Header="Дата и время" Width="165" IsReadOnly="True" Binding="{Binding Path=CreatDate}"></DataGridTextColumn>
+                <DataGridCheckBoxColumn Header="Актуальность" Width="110" IsReadOnly="False" Binding="{Binding Path=CheckNot, UpdateSourceTrigger=PropertyChanged}"></DataGridCheckBoxColumn>
+                <DataGridTextColumn Header="Мои заметки" Width="*" IsReadOnly="False" Binding="{Binding Path=ListNot}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
